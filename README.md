@@ -14,7 +14,7 @@ Welcome to my assessment submission for the Erino Project! This repository showc
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/ErinoProject.git
+   git clone https://github.com/jEETBUDHANI/Erin-Assesement.git
    ```
 2. Open the project folder:
    ```bash
