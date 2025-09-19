@@ -1,0 +1,9 @@
+body { font-family: Inter, system-ui, Arial; background:#f6f7fb; color:#222; }
+.center { display:flex; height:100vh; align-items:center; justify-content:center; }
+.card { background:#fff; padding:16px; border-radius:8px; box-shadow: 0 6px 18px rgba(20,20,40,0.06); width:360px; }
+.card input, .card select { width:100%; padding:8px; margin-bottom:8px; }
+.card button { padding:8px 12px; }
+.err { color:#b00020; margin-bottom:8px; }
+.leads-table { width:100%; border-collapse:collapse; background:#fff; }
+.leads-table th, .leads-table td { padding:8px 10px; border-bottom:1px solid #eee; text-align:left; }
+.modal { position:fixed; left:0; top:0; right:0; bottom:0; display:flex; align-items:center; justify-content:center; background:rgba(0,0,0,0.4); }
